@@ -1,0 +1,7 @@
+TSLA: $1250
+MSFT: $1600
+AAPL: $900
+GOOGL: $700
+AMZN: $650
+
+Total investment value: $5100

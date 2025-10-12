@@ -1,5 +1,3 @@
-# TASK 2: Stock Portfolio Tracker
-
 # Step 1: Define stock prices (dictionary)
 stock_prices = {
     "AAPL": 180,
@@ -48,3 +46,4 @@ if save_option == "y":
             f.write(f"{stock}: ${amount}\n")
         f.write(f"\nTotal investment value: ${total_investment}\n")
     print("Saved to stock_portfolio.txt successfully!")
+

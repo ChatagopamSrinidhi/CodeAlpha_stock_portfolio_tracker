@@ -21,9 +21,8 @@ The program calculates the total investment value based on manually defined stoc
 - File handling (optional)
 
 ---
-
 ## 💻 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ChatagopamSrinidhi/stock_portfolio_tracker.git
+   git clone "https://github.com/ChatagopamSrinidhi/CodeAlpha_stock_portfolio_tracker"
    cd stock-portfolio-tracker
